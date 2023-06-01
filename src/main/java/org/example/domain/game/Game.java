@@ -6,7 +6,6 @@ import java.util.List;
 
 public class Game {
     Long id;
-    List<Player> players;
-    Player currentPlayer;
+
 
 }
