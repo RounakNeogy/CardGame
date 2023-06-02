@@ -6,12 +6,13 @@
 - Open the folder in any IDE like IntelliJ IDEA or Eclipse
 
 ### To run all the Test Case
-- Go to **src -> test -> java**
-- Right click on the folder and click **Run All Tests**
+- Go to **"src -> test -> java"**
+- Right click on the folder and click **"Run All Tests"**
 
 ### To see the output
-- Go to **src -> main -> java -> org -> example -> Main.java**
-- Right click on Main.java and click **Run main.main()**
+- Go to **"src -> main -> java -> org -> example -> Main.java"**
+- Right click on Main.java and click **"Run main.main()"**
 
 
-## Test Suit
+## Test Coverage Report
+![Test_Coverage](./Test_Coverage_Report.jpeg)
