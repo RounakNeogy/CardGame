@@ -15,4 +15,4 @@
 
 
 ## Test Coverage Report
-![Test_Coverage](./Test_Coverage_Report.jpeg)
+![Test_Coverage](Test_Coverage_Report.jpg)
